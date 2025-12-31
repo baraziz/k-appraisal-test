@@ -1,0 +1,63 @@
+## =====================
+## .NET / Visual Studio
+## =====================
+
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.rsuser
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache
+.vs/
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# ASP.NET Core
+appsettings.Development.json
+appsettings.Production.json
+
+# Logs
+logs/
+*.log
+
+# Test results
+TestResults/
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# NuGet
+*.nupkg
+# Uncomment if you don’t want packages restored
+# packages/
+
+# EF Core
+Migrations/*.Designer.cs
+Migrations/*.resx
+
+# Dotnet tools
+.dotnet/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets
+secrets.json
+
+# Environment variables
+.env
+.env.*

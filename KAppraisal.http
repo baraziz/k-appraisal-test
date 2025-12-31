@@ -1,0 +1,6 @@
+@KAppraisal_HostAddress = http://localhost:5131
+
+GET {{KAppraisal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
